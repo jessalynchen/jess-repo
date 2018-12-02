@@ -12,6 +12,11 @@
 	font: inherit;
 	column-width: 100%;
 	column-span: all;
+	font-size: 20px;
+}
+#img-thumbnail{
+	height: 100px;
+	width: 500px;
 }
 .img-thumb{
 	height: 100%;
