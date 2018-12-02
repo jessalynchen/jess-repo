@@ -7,6 +7,12 @@
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
 
+#titles{
+	color: slategray;
+	font: inherit;
+	column-width: 100%;
+	column-span: all;
+}
 .img-thumb{
 	height: 100%;
 	width: 100%;
