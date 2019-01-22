@@ -7,6 +7,10 @@
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
 
+.content-section{
+	width: 50%;
+	background: black;
+}
 #titles{
 	color: slategray;
 	font: inherit;
